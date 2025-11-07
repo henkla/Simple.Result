@@ -43,7 +43,7 @@ public class Result<T> : Result
     public static Result<T> OfSuccess(T value, string? message = null) { ... }
     public static Result<T> OfCreated(T? value = default, string? message = null) { ... }
     public new static Result<T> OfException(Exception exception, string? message = null) { ... }
-    // ... and more
+    // ... and more 
 }
 
 // Available statuses
