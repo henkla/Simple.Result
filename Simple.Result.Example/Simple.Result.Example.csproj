@@ -9,7 +9,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Simple.Result\Simple.Result.csproj" />
-      <ProjectReference Include="..\Simple.Result\Simple.Result\Simple.Result.csproj" />
     </ItemGroup>
 
 </Project>

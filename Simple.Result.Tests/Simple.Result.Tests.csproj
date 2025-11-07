@@ -4,7 +4,6 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-
         <IsPackable>false</IsPackable>
         <IsTestProject>true</IsTestProject>
     </PropertyGroup>
@@ -22,7 +21,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Simple.Result\Simple.Result.csproj" />
-      <ProjectReference Include="..\Simple.Result\Simple.Result\Simple.Result.csproj" />
     </ItemGroup>
 
 </Project>
