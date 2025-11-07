@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <PackageId>Simple.Result</PackageId>
+        <PackageId>Simple.Results</PackageId>
         <Authors>Henrik Larsson</Authors>
         <PackageProjectUrl>https://github.com/henkla/Simple.Result</PackageProjectUrl>
         <RepositoryUrl>https://github.com/henkla/Simple.Result</RepositoryUrl>
