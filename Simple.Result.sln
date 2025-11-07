@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{471C0330-E
 		.gitignore = .gitignore
 		global.json = global.json
 		README.md = README.md
+		.github\workflows\pipeline-publish-nuget.yml = .github\workflows\pipeline-publish-nuget.yml
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Result.Example", "Simple.Result.Example\Simple.Result.Example.csproj", "{17238F36-5630-4B8D-B13C-8EBB45ED19AE}"
